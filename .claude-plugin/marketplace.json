@@ -1,0 +1,29 @@
+{
+  "name": "formularios-tecnologia-y-proteccion-de-datos",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Contratos tecnológicos, comercio electrónico y protección de datos · España (32 formularios). Para el negocio digital: desarrollo de software, hosting, mantenimiento y outsourcing informático, tienda online y condiciones de uso, contratos de encargado y corresponsable del tratamiento, cláusulas y documentos del RGPD y de la LOPDGDD. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-tecnologia-y-proteccion-de-datos",
+      "source": "./",
+      "description": "Contratos tecnológicos, comercio electrónico y protección de datos · España (32 formularios). Para el negocio digital: desarrollo de software, hosting, mantenimiento y outsourcing informático, tienda online y condiciones de uso, contratos de encargado y corresponsable del tratamiento, cláusulas y documentos del RGPD y de la LOPDGDD. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "mercantil",
+        "tecnologia-datos"
+      ]
+    }
+  ]
+}
